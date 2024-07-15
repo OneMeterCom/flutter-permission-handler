@@ -1,3 +1,5 @@
+**CAUTION**: This repository is used by OneMeter Mobile. Preserve it until the app is updated to latest flutter and sdk.
+
 # Flutter permission_handler plugin
 
 The Flutter permission_handler plugin is build following the federated plugin architecture. A detailed explanation of the federated plugin concept can be found in the [Flutter documentation](https://flutter.dev/docs/development/packages-and-plugins/developing-packages#federated-plugins). This means the permission_handler plugin is separated into the following packages:
